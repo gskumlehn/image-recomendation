@@ -2,10 +2,6 @@
 import os
 import subprocess
 
-# Install Kaggle API
-subprocess.run(["pip", "install", "-q", "-U", "kaggle"])
-subprocess.run(["pip", "install", "--upgrade", "--force-reinstall", "--no-deps", "kaggle"])
-
 # Set up Kaggle API credentials
 os.makedirs(os.path.expanduser('~/.kaggle'), exist_ok=True)
 with open(os.path.expanduser('~/.kaggle/kaggle.json'), 'w') as f:
