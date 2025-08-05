@@ -80,7 +80,7 @@ Televisions
 
 Washing Machines
 
-![](recs/Washing Machines_recs.png)
+![](recs/Washing_Machines_recs.png)
 
 Watches
 
