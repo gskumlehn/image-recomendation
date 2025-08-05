@@ -71,13 +71,17 @@ python cluster-images.py
 First image (left) is the query input; the next three are recommended similar items.
 
 Headphones
+
 ![](recs/Headphones_recs.png)
 
 Televisions
+
 ![](recs/Televisions_recs.png)
 
 Washing Machines
+
 ![](recs/Washing Machines_recs.png)
 
 Watches
+
 ![](recs/Watches_recs.png)
